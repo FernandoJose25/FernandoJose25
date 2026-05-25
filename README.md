@@ -93,6 +93,7 @@ const fernando = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djjofer.25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandoJose25)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_%2B51_902_508_499-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51902508499)
 
 </div>
 
