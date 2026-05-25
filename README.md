@@ -17,7 +17,7 @@
 ```typescript
 const fernando = {
   rol:         "Full Stack Developer",
-  ubicacion:   "Venezuela 🇻🇪",
+  ubicacion:   "Perú",
   especialidad: ["Mobile Apps", "Web Apps", "Backend Systems"],
   stack:       ["React Native", "TypeScript", "Node.js", "Supabase"],
   actualmente: "Construyendo Cercania — app de localización familiar 📍",
