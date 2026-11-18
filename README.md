@@ -78,29 +78,4 @@ Todos los repositorios tienen **CI en GitHub Actions** (typecheck, tests y build
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoJose25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJose25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djjofer.25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandoJose25)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_%2B51_902_508_499-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51902508499)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-
-</div>
+📫 **Contacto:** [djjofer.25@gmail.com](mailto:djjofer.25@gmail.com) · [WhatsApp +51 902 508 499](https://wa.me/51902508499)
